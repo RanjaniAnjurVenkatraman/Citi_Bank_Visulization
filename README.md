@@ -13,7 +13,7 @@ Used the Citi Bike API to get the status and location of every Citi Bike station
 
     * The [logic.js](Unsolved/static/js/logic.js) file contains coordinates that you can use to position a Leaflet map over New York City.
 
-  Written code to perform a second API call to the [Citi Bike station status endpoint](https://gbfs.citibikenyc.com/gbfs/en/station_status.json). Take a few moments to study the   data that the endpoint returns. In particular, notice `station_id`, `num_bikes_available`, `is_installed`, and `is_renting`.
+      Developed code to perform a second API call to the [Citi Bike station status endpoint](https://gbfs.citibikenyc.com/gbfs/en/station_status.json). Take a few moments to           study the   data that the endpoint returns. In particular, notice `station_id`, `num_bikes_available`, `is_installed`, and `is_renting`.
 
 2. Used the data that  from the second API call,  to add the following functionality:
 
@@ -33,9 +33,7 @@ Used the Citi Bike API to get the status and location of every Citi Bike station
 
 3. Used a Leaflet plugin to create different types of markers to represent the layers. The following step shows an example map that uses [Leaflet.ExtraMarkers](https://github.com/coryasilva/Leaflet.ExtraMarkers). 
 
-4. Added a legend to map to explain the different markers. The following image shows an example of the final advanced map:
-
-      ![Citibike](Images/44-Citibike_advanced.png)
+4. Added a legend to map to explain the different markers. The following image shows an example of the final advanced map:    
 
 5. Deployed it to GitHub Pages.
 
@@ -58,9 +56,7 @@ Used the Citi Bike API to get the status and location of every Citi Bike station
   * [Leaflet.ExtraMarkers](https://github.com/coryasilva/Leaflet.ExtraMarkers)
 
   * [Leaflet legend documentation](http://leafletjs.com/examples/choropleth/#custom-legend-control)
-  
-  ---
-  © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	
+	
 
 
 ## Visulization page link : https://ranjanianjurvenkatraman.github.io/Citi_Bank_Visulization/
